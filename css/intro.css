@@ -1,0 +1,43 @@
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 600px;
+}
+
+.intro__title{
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.intro__paragraph{
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+    margin: 0;
+    width: 560px;
+}
+
+.intro__items{
+    font-family: PT Serif;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    list-style-type: none;
+    padding-left: 0px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.intro__item{
+    margin-right: 15px;
+}

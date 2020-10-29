@@ -1,0 +1,15 @@
+.appbar{
+    display: flex;
+    justify-content: space-between;
+}
+.appbar__menu{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+.appbar__item{
+    margin: 5px;
+}
+.appbar__item_active{
+    background-color: #eeeeee;
+}

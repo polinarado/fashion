@@ -1,0 +1,7 @@
+.section__container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.section_intro{
+    background-image: url(../img/intro.png);
+}
